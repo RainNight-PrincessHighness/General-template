@@ -12,7 +12,7 @@
 ![image](https://github.com/RainNight-PrincessHighness/General-template/blob/main/image/login.png)
 ### 主页 HOME PAGE
 ![image](https://github.com/RainNight-PrincessHighness/General-template/blob/main/image/home.png)
-### 登录页面 LOGIN PAGE
+### 功能页面 PAGE
 ![image](https://github.com/RainNight-PrincessHighness/General-template/blob/main/image/about.png)
 
 
