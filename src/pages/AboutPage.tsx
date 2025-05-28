@@ -55,7 +55,7 @@ function AboutPage() {
 
                             <Tooltip title='nightrain@luminous.asia'>
 
-                                <a className="email-info" style={{ textAlign: 'center', width: '70px', marginLeft: '20px', height: '10vh', alignContent: 'center', display: 'block' }}><MailOutlined /></a>
+                                <a className="email-info" style={{ textAlign: 'center', width: '70px', marginLeft: '20px', height: '10vh', alignSelf:'center',textAlignLast:'center',alignContent: 'center', display: 'block' }}><MailOutlined /></a>
 
                             </Tooltip>
 
